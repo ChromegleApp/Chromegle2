@@ -29,7 +29,7 @@ Alternatively, get it on the [Chrome Webstore](https://chrome.google.com/webstor
 ## Authors
 
 * **Isaac Kogan** - *Initial work* - [isaackogan](https://github.com/isaackogan)
-
+* **Joba** - *some contributing factors*
 
 See also the list of [contributors](https://github.com/ChromegleApp/Chromegle/contributors) who participated in this project.
 
